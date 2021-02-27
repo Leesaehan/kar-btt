@@ -7,6 +7,8 @@ var basicSymbolMap = [
     {from: ',', to:	'\u2802'},
     {from: ':', to:	'\u2812'},
     {from: '\u2013', to: '\u2824'},
+    {from: '-', to: '\u2824'},
+    {from: '_', to: '\u2824'},
     {from: '!', to:	'\u2816'},
     {from: '?', to:	'\u2822'},
     {from: '«', to:	'\u2813'},
